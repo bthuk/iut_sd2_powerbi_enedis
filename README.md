@@ -27,16 +27,14 @@ L'outil permet d'identifier les passoires thermiques, de suivre les émissions d
 * `projet.pbix` : Le fichier source Power BI contenant le rapport et le modèle de données.
 * `Documentation_Technique.pdf` : Explications détaillées sur l'architecture, le RLS et les performances.
 * `Documentation_Fonctionnelle.docx` : Guide utilisateur à destination des Mairies.
-* `data/` :  Dossier contenant les jeux de données bruts anonymisés.
+* `data/` :  Dossier contenant les jeux de données bruts.
 
-## 📸Aperçu
 
-| Tableau de Bord | Comparateur |
-|:---:|:---:|
-| *[Insérer ici une capture d'écran de ta page 1]* | *[Insérer ici une capture d'écran de ta page 2]* |
 
 
 ## 👤 Auteur
-
+* meryem.chouki@univ-lyon2.fr
+* sharon.guedj@univ-lyon2.fr
+* ulrick.berthon@univ-lyon2.fr
 
 
