@@ -27,7 +27,7 @@ L'outil permet d'identifier les passoires thermiques, de suivre les émissions d
 ##  Structure du Dépôt
 
 * `projet.pbix` : Le fichier source Power BI contenant le rapport et le modèle de données.
-* `Dossier_Conception_UI_UX.docx` : Maquettes graphiques (Figma)  avant développement  et interface finale.
+* `Dossier_Conception_UI_UX.docx` : Maquettes graphiques (Figma)  avant développement  et interface finale. (**[Voir la Maquette](https://scheme-dab-66876623.figma.site/)**)
 * `Documentation_Technique.docx` : Explications détaillées sur l'architecture, le RLS et les performances.
 * `Documentation_Fonctionnelle.docx` : Guide utilisateur à destination des Mairies.
 * `data/` :  Dossier contenant les jeux de données bruts.
