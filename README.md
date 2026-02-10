@@ -35,7 +35,7 @@ L'outil permet d'identifier les passoires thermiques, de suivre les émissions d
 
 
 
-## 👤 Auteur
+##  Auteur
 * meryem.chouki@univ-lyon2.fr
 * sharon.guedj@univ-lyon2.fr
 * ulrick.berthon@univ-lyon2.fr
